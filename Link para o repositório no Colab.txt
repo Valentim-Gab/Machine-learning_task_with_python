@@ -1,0 +1,10 @@
+Nomes = [
+	{
+		nome: 'Gabriel Valentim',
+	},
+	{
+		nome: 'Eduardo Londero',
+	}
+]
+
+LINK PARA O REPOSITÓRIO: https://colab.research.google.com/drive/1yWWjl2yXBza6f3ZUaqZ0T7xht1Va9dn7?usp=sharing
